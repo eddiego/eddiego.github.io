@@ -14,4 +14,4 @@ deploy: # 배포 설정
   local-dir: ./_site # 빌드 결과물 경로
   target-branch: master # 빌드 결과물 업로드할 브랜치 이름
   on:
-    branch: sources # 빌드 대상 브랜치
+    branch: source # 빌드 대상 브랜치
