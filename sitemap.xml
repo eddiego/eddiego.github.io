@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>https://eddiego.github.io//jekyll/2015/04/20/welcome-to-jekyll.html</loc>
+<lastmod>2015-04-20T08:43:59+00:00</lastmod>
+</url>
+<url>
+<loc>https://eddiego.github.io//jekyll/2020/08/27/first-post.html</loc>
+<lastmod>2020-08-27T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>https://eddiego.github.io//about/</loc>
+</url>
+<url>
+<loc>https://eddiego.github.io//posts/</loc>
+</url>
+<url>
+<loc>https://eddiego.github.io//typography/</loc>
+</url>
+<url>
+<loc>https://eddiego.github.io//tag/jekyll/</loc>
+</url>
+<url>
+<loc>https://eddiego.github.io//tag/welcome/</loc>
+</url>
+<url>
+<loc>https://eddiego.github.io//category/jekyll/</loc>
+</url>
+<url>
+<loc>https://eddiego.github.io//</loc>
+</url>
+</urlset>

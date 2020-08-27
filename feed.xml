@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eddie's Silo</title>
+    <description>A simple yet classy theme for your Jekyll website or blog.
+</description>
+    <link>https://eddiego.github.io//</link>
+    <atom:link href="https://eddiego.github.io//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 27 Aug 2020 13:08:32 +0000</pubDate>
+    <lastBuildDate>Thu, 27 Aug 2020 13:08:32 +0000</lastBuildDate>
+    <generator>Jekyll v3.8.6</generator>
+    
+      <item>
+        <title>First Post</title>
+        <description>&lt;p&gt;This is first post in my blog. 첫 포스트 입니다.&lt;/p&gt;
+
+&lt;h2 id=&quot;why-blog&quot;&gt;Why blog&lt;/h2&gt;
+
+&lt;p&gt;기억의 한계, 기록이 필요…&lt;/p&gt;
+</description>
+        <pubDate>Thu, 27 Aug 2020 00:00:00 +0000</pubDate>
+        <link>https://eddiego.github.io//jekyll/2020/08/27/first-post.html</link>
+        <guid isPermaLink="true">https://eddiego.github.io//jekyll/2020/08/27/first-post.html</guid>
+        
+        
+        <category>Jekyll</category>
+        
+      </item>
+    
+      <item>
+        <title>Welcome to Jekyll!</title>
+        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different...</description>
+        <pubDate>Mon, 20 Apr 2015 08:43:59 +0000</pubDate>
+        <link>https://eddiego.github.io//jekyll/2015/04/20/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">https://eddiego.github.io//jekyll/2015/04/20/welcome-to-jekyll.html</guid>
+        
+        <category>jekyll</category>
+        
+        <category>welcome</category>
+        
+        
+        <category>Jekyll</category>
+        
+      </item>
+    
+  </channel>
+</rss>
